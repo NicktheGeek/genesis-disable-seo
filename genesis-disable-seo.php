@@ -1,3 +1,4 @@
+<?php
 /**
  * Plugin Name: Genesis Disable SEO
  * Plugin URI: https://github.com/NicktheGeek/genesis-disable-seo/
